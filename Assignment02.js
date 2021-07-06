@@ -1,4 +1,4 @@
-function BMI (){
+function VAY (){
     var tienvay = document.getElementById("tienvay").value;
     var thoigianvay = document.getElementById("thoigianvay").value;
     var laiSuat = document.getElementById("laiSuat").value;
